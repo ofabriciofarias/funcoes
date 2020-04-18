@@ -1,8 +1,8 @@
 <?php
 
 $pessoa = array(
-	"nome" => "Fabricio",
-	"idade" => 32
+	'nome' => 'Fabricio',
+	'idade' => 32
 );
 
 
